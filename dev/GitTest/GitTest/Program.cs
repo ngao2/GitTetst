@@ -9,6 +9,8 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("change1 ");
+            Console.WriteLine("change2  ");
         }
     }
 }
