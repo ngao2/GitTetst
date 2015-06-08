@@ -13,6 +13,7 @@ namespace GitTest
             Console.WriteLine("change2  ");
             Console.WriteLine("rollback ");
             Console.WriteLine("rollback2 ");
+            Console.WriteLine("rollback3 ");
         }
     }
 }
